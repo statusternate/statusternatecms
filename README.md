@@ -79,8 +79,6 @@ Username default: admin
 Password default: password (Ubah setelah login)
 
 ✅ Selesai!
-Statuters CMS berhasil terinstal, Anda dapat mulai mengelola konten blog Anda.
-
-Jika menemukan kesulitan, beri tahu agar bisa saya bantu lebih lanjut. 🚀
+Statuters CMS berhasil terinstal, Anda dapat mulai mengelola konten blog Anda. 🚀
 
 se you salam satu ternate
